@@ -22,7 +22,7 @@ Open `arduino/led_visualizer/led_visualizer.ino` in Arduino IDE and upload to th
 
 ### Python
 ```bash
-pip install pyserial
+pip install -r requirements.txt
 cd python
 python main.py
 ```
